@@ -1,5 +1,14 @@
 # arduino-esp8266-aes-lib
+
+
+### Deprecated. 
+
+Please use this project instead: 
+https://github.com/kakopappa/esp8266-aes-cbc-encryption-decryption
+
+
 Lib for https://github.com/kakopappa/arduino-esp8266-aes-encryption-with-nodejs
+
 
 ```
 #include <AESLib.h>
